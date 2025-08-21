@@ -16,6 +16,10 @@ The analysis highlights **usage behavior, device preferences, urban–rural diff
 - `visuals/` → Exported plots and charts.  
 - `requirements.txt` → Required Python libraries.  
 
+## Power BI Dashboard
+![](/visuals/Screenshot%202025-08-21%20233514.png)
+![](/visuals/Screenshot%202025-08-21%20233532.png)
+
 ## 📊 Key Insights
 ### -> Screen time **increases with age**, peaking among teenagers. 
 ![Age vs Screen Time](/visuals/output3.png)
