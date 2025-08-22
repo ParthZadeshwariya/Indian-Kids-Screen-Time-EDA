@@ -19,7 +19,7 @@ The analysis highlights **usage behavior, device preferences, urban–rural diff
 ## Power BI Dashboard
 - Used Power Query to Modify data
 ![](/visuals/Screenshot%202025-08-21%20233514.png)
-![](/visuals/Screenshot%202025-08-21%20233532.png)
+![](/visuals/Screenshot%202025-08-21%202335321.png)
 
 ## 📊 Key Insights
 ### -> Screen time **increases with age**, peaking among teenagers. 
