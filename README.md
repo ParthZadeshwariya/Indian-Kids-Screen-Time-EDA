@@ -17,6 +17,7 @@ The analysis highlights **usage behavior, device preferences, urban–rural diff
 - `requirements.txt` → Required Python libraries.  
 
 ## Power BI Dashboard
+- Used Power Query to Modify data
 ![](/visuals/Screenshot%202025-08-21%20233514.png)
 ![](/visuals/Screenshot%202025-08-21%20233532.png)
 
